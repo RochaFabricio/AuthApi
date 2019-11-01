@@ -12,7 +12,7 @@ Execute **"php artisan serve"** uma possivel resposta será : "Laravel developme
 
 Depois de seguir os passos você poderá utilizar o sistema.
 
-## API REST Implementada
+## API Implementada
 
 Method    | EndPoint              | Description
 --------- | --------------------- | ------------------------------------------------------------
