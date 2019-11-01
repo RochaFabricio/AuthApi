@@ -4,7 +4,7 @@
 
 Após clonar o repositório, execute o comando **"composer install"**, ao termino será nexessário renomear o arquivo **".env example"** deixe como **".env"** e configure o arquivo **".env"** com as informações de sua base de dados.
 
-Feito isso execute o comando **"php artisan migrate"**, para que a tabela "log" seja criada.
+Feito isso execute o comando **"php artisan migrate"**, para que as tabelas sejam criadas.
 
 Será necessário executar o comando **"php artisan db:seed"**, para que as cores sejam cadastradas em sua base de dados.
 
